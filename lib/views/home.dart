@@ -42,7 +42,7 @@ class _HomeState extends State<Home> {
         title: const Row(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Text("News"),
+            Text("News."),
             Text("Alert",
                 style:
                     TextStyle(fontWeight: FontWeight.bold, color: Colors.blue)),
