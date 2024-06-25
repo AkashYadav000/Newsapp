@@ -1,0 +1,1 @@
+ C:\\Users\\Akash\ Yadav\\Downloads\\flutternewszip\\flutternews\\.dart_tool\\flutter_build\\5a00f1378a45f0f82623f4e5a760f2ec\\native_assets.yaml: 
